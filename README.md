@@ -21,6 +21,7 @@ This project is a PDF data processing and viewing solution built with Python and
   - `nltk`
   - `pymongo`
   - `streamlit`
+  - `altair`
 
 ## Setup Instructions
 
