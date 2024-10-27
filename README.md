@@ -1,5 +1,5 @@
 # Harshit-Rana-wasserstoff-AiInternTask
- PDF Data Processor and Viewer is a web app that monitors a folder for new PDFs, extracts summaries and keywords, and displays results on a Streamlit interface. It uses MongoDB for data storage and Docker for streamlined deployment. Ideal for users needing quick, automated insights into PDF content.
+ PDF Data Processor and Viewer is a web app that monitors a folder for new PDFs, extracts summaries and keywords, and displays results on a Streamlit interface. It uses MongoDB for data storage and Docker for streamlined deployment. Ideal for users needing quick, automated insights into PDF content. https://pdf-summarizer-keywords.streamlit.app/
 # PDF Data Processor and Viewer
 
 This project is a PDF data processing and viewing solution built with Python and Streamlit. It monitors a folder for new PDF files, extracts summaries and keywords, and saves the results to MongoDB. The Streamlit web interface allows you to view the summaries and keywords for each processed PDF.
