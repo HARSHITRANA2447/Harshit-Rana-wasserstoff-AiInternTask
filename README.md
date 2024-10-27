@@ -51,7 +51,7 @@ This project is a PDF data processing and viewing solution built with Python and
 ### 5. Update Folder Path
    - Modify the `folder_path` variable in the script (`main.py`) to specify the folder path you want to monitor for PDF files:
      ```python
-     folder_path = r"C:\path\to\your\pdf_folder"  # Replace with your own folder path
+     folder_path = r"C:\Users\harshit rana\OneDrive\Desktop\pdfdataset"
      ```
 
 ### 6. Run the Application
