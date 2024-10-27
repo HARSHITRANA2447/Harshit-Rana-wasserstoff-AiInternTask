@@ -1,0 +1,5 @@
+PyPDF2==2.12.0
+nltk==3.7
+watchdog==3.0.0
+pymongo==4.0.1
+streamlit==1.12.0
